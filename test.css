@@ -1,0 +1,15 @@
+body {
+	background-color: #bfe0df;
+}
+
+h1 {
+	color: #1c1c1c;
+	text-align: center;
+	font-size: 30pt;
+}
+
+p {
+	text-align: center;
+	font-size: 15pt;
+	border: 4px #1c1c1c;
+}
