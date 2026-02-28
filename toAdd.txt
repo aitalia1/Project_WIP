@@ -1,0 +1,7 @@
+As of writing, this is more a list of items to add once a basic framework is established.
+
+1: A name scanning system. Documents uploaded in .txt files or .pdf files are scanned looking for names.
+	if a person's name shows up. That name is linked like how it would be in html, <a></a>.
+	if clicked, then take user to that person's information. 
+	on the page of that person, a dropdown list is available to view. this list contains everytime they are mentioned in
+	another document.
