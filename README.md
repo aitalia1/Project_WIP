@@ -10,4 +10,3 @@ README.md -- Version 0.0.1
 February 28th, 2026
 
 CREATOR: Antonino Italia
-My friend who is helping me: loreson
